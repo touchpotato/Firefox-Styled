@@ -1,0 +1,40 @@
+/* 
+#PlacesToolbarItems
+{
+	min-height: 32px;
+}
+
+#tabbrowser-arrowscrollbox
+{
+	height: 40px !important;
+}
+
+.tabbrowser-tab
+{
+	--tab-min-height: 32px;
+	min-height: var(--tab-min-height);
+}
+
+#TabsToolbar .toolbarbutton-1
+{
+	margin: 0;
+}
+
+:root
+{
+	--urlbar-container-height: 32px !important;
+    --urlbar-height: 32px !important;
+    --urlbar-toolbar-height: 32px !important;
+	--tab-min-height: 40px;
+}
+
+#urlbar-input
+{
+	line-height: 24px !important;
+}
+
+#urlbar, #searchbar
+{
+	--urlbar-mmin-height: 24px;
+	min-height: var(--urlbar-min-height);
+} */
